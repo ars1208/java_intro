@@ -18,5 +18,8 @@ public class Main {
         double pi = 3.14;
         long number = 314159265853979L;
         String attack = "ミナトの攻撃！敵に15ポイントのダメージを与えた。";
+
+        int i = (int)3.2;
+        System.out.println(i);
     }
 }
