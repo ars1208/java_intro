@@ -19,7 +19,6 @@ public class Ex3_5 {
             case 4:
             System.out.println("変更します");
             break;
-            
         }
 
     }
