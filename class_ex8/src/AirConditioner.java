@@ -1,5 +1,3 @@
-package class_ex;
-
 public class AirConditioner {
     int targetTemp = 28;
     boolean running;
